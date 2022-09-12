@@ -1,0 +1,31 @@
+{
+  "name": "Challenge123managerprofile",
+  "version": "1.0.0",
+  "description": "Team Members Generators ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose test/*",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielalinhares/Challenge123managerprofile"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "tests"
+  ],
+  "author": "Emily Wirtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielalinhares/Challenge123managerprofile/issues"
+  },
+  "homepage": "https://github.com/gabrielalinhares/Challenge123managerprofile#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
