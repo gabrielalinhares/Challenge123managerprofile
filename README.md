@@ -1,6 +1,5 @@
 # Team Page Generator // returning the template
 
-undefined
 
 ## Description
 
