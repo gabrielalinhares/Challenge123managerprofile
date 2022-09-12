@@ -1,4 +1,4 @@
-# Team Page Generator // returning the template
+# Team Page Generator 
 
 
 ## Description
