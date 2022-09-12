@@ -17,17 +17,6 @@ Link to project: https://github.com/gabrielalinhares
 
 check how my project works in the following video: https://drive.google.com/file/d/1tJHuSoxVrp0ktpNH009lKSSutDlYk5LB/view?usp=sharing
 
-## Usage
-
-undefined
-
-## Credits
-
-Collaborators' GitHub Usernames: undefined
-
-## License
-
-none
 
 ## Contributors
 
@@ -37,4 +26,5 @@ Created by Gabriela Linhares
 
 If you have any questions, please contact me at GitHub username <a href="https://github.com/gabrielalinhares">$answers.username}</a> or by e-mail :
 linhares.gabriela01@gmail.com
+
 # Challenge123managerprofile
